@@ -57,7 +57,7 @@ To get started with the project, follow these instructions:
 1. **Clone the repository:**
 
    ```bash
-    git clone https://github.com/akashYadav070
+    git clone https://github.com/akashYadav070/Hospital-Management-System
    ```
     - First open Hospital-Management-System folder:
      ```bash

@@ -37,7 +37,7 @@ CLOUDINARY_API_SECRET=<Your Cloudinary API Secret>
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Fairooz2150/Hospital-Management-System.git
+   git clone https://github.com/akashYadav070/Hospital-Management-System
     ```
 
 2. Navigate to the **Backend** folder:

@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
           <div>
             <h4>Developed by</h4>
-            <p>Muhammad Fairooz</p>
+            <p>Akash Yadav</p>
             <div className="social-icons">
               <a
                 href="https://github.com/akashYadav070"
